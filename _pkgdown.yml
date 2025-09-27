@@ -1,4 +1,5 @@
-url: https://esimms999.github.io/aoc2025/
+url: https://esimms999.github.io/aoc2025
 template:
   bootstrap: 5
-
+articles:
+  index: Rmd/index.Rmd
