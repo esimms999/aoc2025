@@ -7,4 +7,4 @@ output:
 # Welcome to My Site
 This is a test page.
 
-v0.1.0
+v0.1.1
