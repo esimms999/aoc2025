@@ -1,0 +1,8 @@
+---
+title: "Home"
+output:
+  html_document:
+    self_contained: false
+---
+# Welcome to My Site
+This is a test page.
