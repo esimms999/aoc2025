@@ -1,0 +1,18 @@
+Package: aoc2025
+Title: AoC2025 for esimms999
+Version: 0.0.0.9000
+Authors@R: 
+    person("Eric", "Simms", , "esimms@yahoo.com", role = c("aut", "cre"))
+Description: AoC2025 files for esimms999.
+License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
+    license
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.0.0
+Imports:
+    rmarkdown,
+    knitr,
+    distill,
+    lubridate,
+    htmltools,
+    pkgdown
