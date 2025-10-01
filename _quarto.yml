@@ -1,5 +1,8 @@
 project:
   type: website
+  output-dir: _site
+  resources:
+    - docs/
 
 website:
   title: "aoc2025"
@@ -23,6 +26,3 @@ format:
       - brand
     css: styles.css
     toc: true
-
-
-
