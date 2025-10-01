@@ -6,18 +6,19 @@ website:
   navbar:
     left:
       - href: index.qmd
-        text: Home
+        text: "Home"
       - href: day.qmd
-        text: Day
+        text: "Day"
       - href: about.qmd
-        text: About
+        text: "About"
 
-   sidebar:
-     - title: "Day"
-       style: docked
-       contents:
-         - day01.qmd
-         - day02.qmd
+  sidebar:
+   - title: "Day"
+     style: docked
+     contents:
+       - day.qmd
+       - day01.qmd
+       - day02.qmd
 
 format:
   html:
