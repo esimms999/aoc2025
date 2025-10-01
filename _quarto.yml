@@ -5,20 +5,16 @@ website:
   title: "aoc2025"
   navbar:
     left:
-      - href: index.qmd
-        text: "Home"
-      - href: day.qmd
-        text: "Day"
-      - href: about.qmd
-        text: "About"
-
-  sidebar:
-   - title: "Day"
-     style: docked
-     contents:
-       - day.qmd
-       - day01.qmd
-       - day02.qmd
+      - text: "Home"
+        href: index.qmd
+      - text: "Day"
+        menu:
+          - href: day01.qmd
+            text: "Day 01"
+          - href: day02.qmd
+            text: "Day 02"
+      - text: "About"
+        href: about.qmd
 
 format:
   html:
