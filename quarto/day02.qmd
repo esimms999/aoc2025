@@ -1,6 +1,0 @@
----
-title: "Day02"
----
-
-Placeholder for Day02
-
