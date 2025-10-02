@@ -1,6 +1,0 @@
----
-title: "Day"
----
-
-Placeholder for day dropdown
-
