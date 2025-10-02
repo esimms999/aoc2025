@@ -7,11 +7,11 @@
     "text": "Placeholder for Day01"
   },
   {
-    "objectID": "quarto/day.html",
-    "href": "quarto/day.html",
-    "title": "Day",
+    "objectID": "quarto/index.html",
+    "href": "quarto/index.html",
+    "title": "aoc2025",
     "section": "",
-    "text": "Placeholder for day dropdown"
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
   },
   {
     "objectID": "quarto/day02.html",
@@ -21,17 +21,10 @@
     "text": "Placeholder for Day02"
   },
   {
-    "objectID": "quarto/index.html",
-    "href": "quarto/index.html",
-    "title": "aoc2025",
-    "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
-  },
-  {
     "objectID": "quarto/about.html",
     "href": "quarto/about.html",
     "title": "About",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2\n\n\nVersion 0.0.7"
+    "text": "About this site\n\n1 + 1\n\n[1] 2\n\n\nVersion 0.0.8"
   }
 ]
