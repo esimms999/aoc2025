@@ -1,7 +1,6 @@
 project:
   type: website
-  resources:
-    - quarto/
+  pre-render: ./pre-render.sh
 
 website:
   title: "aoc2025"
