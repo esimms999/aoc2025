@@ -28,3 +28,4 @@ format:
       - brand
     css: styles.css
     toc: true
+    include-in-footer: footer.html  # Add common footer
