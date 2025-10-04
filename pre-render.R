@@ -1,4 +1,9 @@
 #!/usr/bin/env Rscript
+# Only run in GitHub Actions environment
+if (Sys.getenv("GITHUB_ACTIONS") != "true") {
+  stop("Rendering is only allowed in GitHub Actions")
+}
+
 # Move all files from quarto/ to project root, overwriting
 # existing files, then delete quarto/
 quarto_dir <- "quarto"
