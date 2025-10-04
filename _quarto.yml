@@ -21,6 +21,14 @@ website:
       - text: "About"
         href: about.qmd
 
+  page-footer:
+    background: "#F8F8F8"  # Set a light gray background color
+    center:
+      - text: "aoc2025 for esimms999"
+    right:
+      - icon: github
+        href: https://github.com/esimms999/aoc2025
+
 format:
   html:
     theme:
@@ -28,4 +36,3 @@ format:
       - brand
     css: styles.css
     toc: true
-    include-in-footer: footer.html  # Add common footer
