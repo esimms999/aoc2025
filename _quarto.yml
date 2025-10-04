@@ -16,6 +16,8 @@ website:
             text: "Day 02"
           - href: day03.qmd
             text: "Day 03"
+          - href: day04.qmd
+            text: "Day 04"
       - text: "About"
         href: about.qmd
 
