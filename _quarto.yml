@@ -1,6 +1,6 @@
 project:
   type: website
-  pre-render: ./pre-render.sh
+  pre-render: ./pre-render.R
 
 website:
   title: "aoc2025"
