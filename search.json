@@ -1,31 +1,17 @@
 [
   {
-    "objectID": "day04.html",
-    "href": "day04.html",
+    "objectID": "day05.html",
+    "href": "day05.html",
     "title": "Day04",
     "section": "",
     "text": "Placeholder for Day04"
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "day01.html",
+    "href": "day01.html",
+    "title": "Day01",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2\n\n\nVersion 0.3.1"
-  },
-  {
-    "objectID": "day03.html",
-    "href": "day03.html",
-    "title": "Day03",
-    "section": "",
-    "text": "Placeholder for Day03"
-  },
-  {
-    "objectID": "day02.html",
-    "href": "day02.html",
-    "title": "Day02",
-    "section": "",
-    "text": "Placeholder for Day02"
+    "text": "Placeholder for Day01 Hello Maya!"
   },
   {
     "objectID": "index.html",
@@ -35,10 +21,31 @@
     "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
   },
   {
-    "objectID": "day01.html",
-    "href": "day01.html",
-    "title": "Day01",
+    "objectID": "day02.html",
+    "href": "day02.html",
+    "title": "Day02",
     "section": "",
-    "text": "Placeholder for Day01 Hello Maya!"
+    "text": "Placeholder for Day02"
+  },
+  {
+    "objectID": "day03.html",
+    "href": "day03.html",
+    "title": "Day03",
+    "section": "",
+    "text": "Placeholder for Day03"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2\n\n\nVersion 0.3.2"
+  },
+  {
+    "objectID": "day04.html",
+    "href": "day04.html",
+    "title": "Day04",
+    "section": "",
+    "text": "Placeholder for Day04"
   }
 ]
