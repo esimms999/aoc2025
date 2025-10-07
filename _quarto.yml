@@ -43,8 +43,6 @@ website:
           text: "Day 09"
         - href: day10.qmd
           text: "Day 10"
-      - text: "About"
-        href: about.qmd
 
   page-footer:
     background: "#F8F8F8"  # Set a light gray background color
