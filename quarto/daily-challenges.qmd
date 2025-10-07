@@ -1,0 +1,10 @@
+---
+title: "Daily Challenges"
+---
+
+Placeholder for Daily Challenges
+
+|-----|-----|-----|-----|-----|
+| [Day 01](day01.html) | Day 02 | Day 03 | Day 04 | Day 05|
+
+

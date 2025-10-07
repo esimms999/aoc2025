@@ -1,7 +1,0 @@
----
-title: "Day06 - Day10"
-sidebar: days06-10
----
-
-Placeholder for Day06 - Day10
-
