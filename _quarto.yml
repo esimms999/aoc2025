@@ -8,41 +8,10 @@ website:
     left:
       - text: "Home"
         href: index.qmd
-      - text: "Day"
-        menu:
-          - href: days01-05.qmd
-            text: "Days 01-05"
-          - href: days06-10.qmd
-            text: "Days 06-10"
+      - text: "Daily Challenges"
+        href: daily-challenges.qmd
       - text: "About"
         href: about.qmd
-  sidebar:
-    - id: days01-05
-      style: "docked"
-      contents:
-        - href: day01.qmd
-          text: "Day 01"
-        - href: day02.qmd
-          text: "Day 02"
-        - href: day03.qmd
-          text: "Day 03"
-        - href: day04.qmd
-          text: "Day 04"
-        - href: day05.qmd
-          text: "Day 05"
-    - id: days06-10
-      style: "docked"
-      contents:
-        - href: day06.qmd
-          text: "Day 06"
-        - href: day07.qmd
-          text: "Day 07"
-        - href: day08.qmd
-          text: "Day 08"
-        - href: day09.qmd
-          text: "Day 09"
-        - href: day10.qmd
-          text: "Day 10"
 
   page-footer:
     background: "#F8F8F8"  # Set a light gray background color

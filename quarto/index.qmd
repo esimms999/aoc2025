@@ -1,6 +1,18 @@
 ---
 title: "aoc2025"
 ---
+---
+title: "Advent of Code 2025: My R Solutions"
+---
+
+**Welcome to My Advent of Code 2025 Journey**
+
+Join me as I tackle the exciting challenges of Advent of Code 2025, using the power of the R programming language to solve each puzzle. This website showcases my solutions, thought processes, and the creative ways I leverage R’s data manipulation and visualization capabilities to crack the daily coding conundrums. Each day, I’ll share my code, explanations, and insights, offering a glimpse into how R can be used to solve complex problems.
+
+The Advent of Code is an annual event that brings together programmers worldwide to solve bite-sized, festive coding challenges throughout December. My goal is to complete as many puzzles as I can while showcasing R’s versatility, from tidyverse workflows to custom algorithms. 
+
+Let’s celebrate the joy of coding this holiday season!
+
 
 This is a Quarto website.
 
