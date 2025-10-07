@@ -1,5 +1,6 @@
 ---
 title: "Day01 - Day05"
+sidebar: days01-05
 ---
 
 Placeholder for Day01 - Day05

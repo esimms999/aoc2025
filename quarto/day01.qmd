@@ -3,5 +3,3 @@ title: "Day01"
 ---
 
 Placeholder for Day01
-Hello Maya!
-
