@@ -1,12 +1,22 @@
 [
   {
-    "objectID": "day05.html",
-    "href": "day05.html",
-    "title": "Day05",
+    "objectID": "day06.html",
+    "href": "day06.html",
+    "title": "Day06",
     "section": "",
-    "text": "Placeholder for Day05",
+    "text": "Placeholder for Day06",
     "crumbs": [
-      "Day 05"
+      "Day 06"
+    ]
+  },
+  {
+    "objectID": "day04.html",
+    "href": "day04.html",
+    "title": "Day04",
+    "section": "",
+    "text": "Placeholder for Day04",
+    "crumbs": [
+      "Day 04"
     ]
   },
   {
@@ -14,17 +24,30 @@
     "href": "day01.html",
     "title": "Day01",
     "section": "",
-    "text": "Placeholder for Day01 Hello Maya!",
+    "text": "Placeholder for Day01",
     "crumbs": [
       "Day 01"
     ]
   },
   {
-    "objectID": "days06-10.html",
-    "href": "days06-10.html",
-    "title": "Day06 - Day10",
+    "objectID": "day09.html",
+    "href": "day09.html",
+    "title": "Day09",
     "section": "",
-    "text": "Placeholder for Day06 - Day10"
+    "text": "Placeholder for Day09",
+    "crumbs": [
+      "Day 09"
+    ]
+  },
+  {
+    "objectID": "day10.html",
+    "href": "day10.html",
+    "title": "Day10",
+    "section": "",
+    "text": "Placeholder for Day10",
+    "crumbs": [
+      "Day 10"
+    ]
   },
   {
     "objectID": "days01-05.html",
@@ -41,6 +64,16 @@
     "text": "Placeholder for Day02",
     "crumbs": [
       "Day 02"
+    ]
+  },
+  {
+    "objectID": "day07.html",
+    "href": "day07.html",
+    "title": "Day07",
+    "section": "",
+    "text": "Placeholder for Day07",
+    "crumbs": [
+      "Day 07"
     ]
   },
   {
@@ -61,6 +94,13 @@
     "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
   },
   {
+    "objectID": "days06-10.html",
+    "href": "days06-10.html",
+    "title": "Day06 - Day10",
+    "section": "",
+    "text": "Placeholder for Day06 - Day10"
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
@@ -68,13 +108,23 @@
     "text": "About this site\n\n1 + 1\n\n[1] 2\n\n\nVersion 0.3.3"
   },
   {
-    "objectID": "day04.html",
-    "href": "day04.html",
-    "title": "Day04",
+    "objectID": "day08.html",
+    "href": "day08.html",
+    "title": "Day08",
     "section": "",
-    "text": "Placeholder for Day04",
+    "text": "Placeholder for Day08",
     "crumbs": [
-      "Day 04"
+      "Day 08"
+    ]
+  },
+  {
+    "objectID": "day05.html",
+    "href": "day05.html",
+    "title": "Day05",
+    "section": "",
+    "text": "Placeholder for Day05",
+    "crumbs": [
+      "Day 05"
     ]
   }
 ]
