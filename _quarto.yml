@@ -17,7 +17,7 @@ website:
       - text: "About"
         href: about.qmd
   sidebar:
-    - id: "Days 01-05"
+    - id: days01-05
       style: "docked"
       contents:
         - href: day01.qmd
