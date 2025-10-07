@@ -4,14 +4,54 @@
     "href": "day05.html",
     "title": "Day05",
     "section": "",
-    "text": "Placeholder for Day05"
+    "text": "Placeholder for Day05",
+    "crumbs": [
+      "Day 05"
+    ]
   },
   {
     "objectID": "day01.html",
     "href": "day01.html",
     "title": "Day01",
     "section": "",
-    "text": "Placeholder for Day01 Hello Maya!"
+    "text": "Placeholder for Day01 Hello Maya!",
+    "crumbs": [
+      "Day 01"
+    ]
+  },
+  {
+    "objectID": "days06-10.html",
+    "href": "days06-10.html",
+    "title": "Day06 - Day10",
+    "section": "",
+    "text": "Placeholder for Day06 - Day10"
+  },
+  {
+    "objectID": "days01-05.html",
+    "href": "days01-05.html",
+    "title": "Day01 - Day05",
+    "section": "",
+    "text": "Placeholder for Day01 - Day05"
+  },
+  {
+    "objectID": "day02.html",
+    "href": "day02.html",
+    "title": "Day02",
+    "section": "",
+    "text": "Placeholder for Day02",
+    "crumbs": [
+      "Day 02"
+    ]
+  },
+  {
+    "objectID": "day03.html",
+    "href": "day03.html",
+    "title": "Day03",
+    "section": "",
+    "text": "Placeholder for Day03",
+    "crumbs": [
+      "Day 03"
+    ]
   },
   {
     "objectID": "index.html",
@@ -21,31 +61,20 @@
     "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
   },
   {
-    "objectID": "day02.html",
-    "href": "day02.html",
-    "title": "Day02",
-    "section": "",
-    "text": "Placeholder for Day02"
-  },
-  {
-    "objectID": "day03.html",
-    "href": "day03.html",
-    "title": "Day03",
-    "section": "",
-    "text": "Placeholder for Day03"
-  },
-  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2\n\n\nVersion 0.3.2"
+    "text": "About this site\n\n1 + 1\n\n[1] 2\n\n\nVersion 0.3.3"
   },
   {
     "objectID": "day04.html",
     "href": "day04.html",
     "title": "Day04",
     "section": "",
-    "text": "Placeholder for Day04"
+    "text": "Placeholder for Day04",
+    "crumbs": [
+      "Day 04"
+    ]
   }
 ]
