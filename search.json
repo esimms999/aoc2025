@@ -60,14 +60,14 @@
     "href": "index.html",
     "title": "Advent of Code 2025: My R Solutions",
     "section": "",
-    "text": "Welcome to My Advent of Code 2025 Journey\nI always look forward to Advent of Code. As usual, I intend on using the power of the R programming language to solve each puzzle. This website showcases my solutions, thought processes, and the creative ways I leverage R’s data manipulation and visualization capabilities to crack the daily coding conundrums. Each day, I’ll share my code, explanations, and insights, offering a glimpse into how R can be used to solve complex problems.\nThe Advent of Code is an annual event that brings together programmers worldwide to solve bite-sized, festive coding challenges throughout December. My goal is to complete as many puzzles as I can while showcasing R’s versatility, from tidyverse workflows to custom algorithms.\nLet’s celebrate the joy of coding this holiday season!"
+    "text": "Welcome to My Advent of Code 2025 Journey\nI always look forward to Advent of Code. As usual, I intend on using the power of the R programming language to solve each puzzle. This website showcases my (attempted) solutions, (hopefully decent) thought processes, and the creative ways (pleasepleaseplease) I leverage R’s data manipulation and visualization capabilities to crack the daily coding conundrums. Each day, I’ll share my code, explanations, and insights, offering a glimpse into how R can be used to solve complex problems.\nThe Advent of Code is an annual event that brings together programmers worldwide to solve bite-sized, festive coding challenges throughout December. My goal is to complete as many puzzles as I can while showcasing R’s versatility, from tidyverse workflows to custom algorithms.\nLet’s celebrate the joy of coding this holiday season!"
   },
   {
     "objectID": "daily-challenges.html",
     "href": "daily-challenges.html",
-    "title": "Advent of Code 2025: Solution Links",
+    "title": "Advent of Code 2025: Solutions",
     "section": "",
-    "text": "Advent of Code 2025 Solutions\nBelow is a 5x5 table linking to my R solutions for the first 25 days of Advent of Code 2025. Each cell links to a page with the solution for that day.\n\n\n\nDay 1\nDay 2\nDay 3\nDay 4\nDay 5\n\n\nDay 6\nDay 7\nDay 8\nDay 9\nDay 10\n\n\nDay 11\nDay 12\nDay 13\nDay 14\nDay 15\n\n\nDay 16\nDay 17\nDay 18\nDay 19\nDay 20\n\n\nDay 21\nDay 22\nDay 23\nDay 24\nDay 25"
+    "text": "Below is a 5x5 table linking to my R solutions for the first 25 days of Advent of Code 2025. Each cell links to a page with the solution for that day.\n\n\n\nDay 1\nDay 2\nDay 3\nDay 4\nDay 5\n\n\nDay 6\nDay 7\nDay 8\nDay 9\nDay 10\n\n\nDay 11\nDay 12\nDay 13\nDay 14\nDay 15\n\n\nDay 16\nDay 17\nDay 18\nDay 19\nDay 20\n\n\nDay 21\nDay 22\nDay 23\nDay 24\nDay 25"
   },
   {
     "objectID": "about.html",
