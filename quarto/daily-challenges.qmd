@@ -1,10 +1,4 @@
 ---
-title: "Daily Challenges"
----
-
-Placeholder for Daily Challenges
-
----
 title: "Advent of Code 2025: Solution Links"
 format: html
 ---
