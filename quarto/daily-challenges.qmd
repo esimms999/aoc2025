@@ -1,9 +1,7 @@
 ---
-title: "Advent of Code 2025: Solution Links"
+title: "Advent of Code 2025: Solutions"
 format: html
 ---
-
-# Advent of Code 2025 Solutions
 
 Below is a 5x5 table linking to my R solutions for the first 25 days of Advent of Code 2025. Each cell links to a page with the solution for that day.
 
