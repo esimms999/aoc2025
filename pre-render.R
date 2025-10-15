@@ -31,3 +31,7 @@ for (file in all_files) {
 unlink(quarto_dir, recursive = TRUE)
 
 message("Moved all files from quarto/ to project root and deleted quarto/")
+
+# Create variable with today's date for the footer in _quarto.yml to use.
+render_date <- format(Sys.time(), "%B %d, %Y")
+cat(paste0("render-date: '", render_date, "'\n"), file = "_quarto.yml", append = TRUE)
