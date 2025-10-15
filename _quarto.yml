@@ -16,8 +16,10 @@ website:
   date: today
   page-footer:
     background: "#F8F8F8"  # Set a light gray background color
-    left:
-      - text: "Last rendered: {{< meta date >}}"
+left:
+      - text: "Last rendered:"
+      - class: "date-rendered"
+        text: "{{< date-modified format='%B %d, %Y' >}}"
     center:
       - text: "aoc2025 for esimms999"
     right:
