@@ -1,5 +1,14 @@
 #!/usr/bin/env Rscript
-# Only run in GitHub Actions environment
+
+# We want to render all of the files in the quarto/ subdirectory. However,
+# doing so raises issues which cannot be addressed with the current
+# rendering process.
+# In order to work around this, we copy all of the files in quarto/ to
+# the root directory and remove the quarto/ subdirectory.
+# We do not want any of this taking place in a local rendering; only in
+# the GitHub Actions rendering where none of these changes will be kept.
+
+# Only allow rendering in the GitHub Actions environment
 if (Sys.getenv("GITHUB_ACTIONS") != "true") {
   stop("Rendering is only allowed in GitHub Actions")
 }
