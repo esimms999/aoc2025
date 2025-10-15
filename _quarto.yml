@@ -15,8 +15,6 @@ website:
 
   page-footer:
     background: "#F8F8F8"  # Set a light gray background color
-    left:
-      - text: "{{date}}"
     center:
       - text: "aoc2025 for esimms999"
     right:
@@ -33,4 +31,4 @@ format:
 
 date:
   value: today
-  format: '[Last rendered: ] MMM DD, YYYY'
+  format: 'MMM DD, YYYY'
