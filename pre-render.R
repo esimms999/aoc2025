@@ -13,11 +13,6 @@ if (Sys.getenv("GITHUB_ACTIONS") != "true") {
   stop("Rendering is only allowed in GitHub Actions")
 }
 
-# Create variable with today's date for the footer in _quarto.yml to use.
-render_date <- format(Sys.time(), "%B %d, %Y")
-cat(paste0("render-date: '", render_date, "'\n"), file = "_quarto.yml", append = TRUE)
-message("Added render-date to _quarto.yml: ", render_date)
-
 # Move all files from quarto/ to project root, overwriting
 # existing files, then delete quarto/
 quarto_dir <- "quarto"
