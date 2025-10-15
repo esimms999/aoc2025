@@ -16,7 +16,7 @@ website:
   page-footer:
     background: "#F8F8F8"  # Set a light gray background color
     left:
-      - text: "Last rendered: {{ render_date }}"
+      - text: "Last rendered: {{ render-date }}"
     center:
       - text: "aoc2025 for esimms999"
     right:
