@@ -1,0 +1,4 @@
+/* HIDE "Published" date under titles */
+.quarto-title-meta {
+  display: none !important;
+}
