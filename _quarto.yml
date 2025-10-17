@@ -2,6 +2,8 @@ project:
   type: website
   pre-render: ./pre-render.R
 
+date: today
+
 website:
   title: "aoc2025"
   navbar:
@@ -15,6 +17,7 @@ website:
 
   page-footer:
     background: "#F8F8F8"  # Set a light gray background color
+    left: "Last rendered: {{< meta date >}}"
     center:
       - text: "aoc2025 for esimms999"
     right:
@@ -28,7 +31,3 @@ format:
       - brand
     css: styles.css
     toc: true
-
-date:
-  value: today
-  format: 'MMM DD, YYYY'
