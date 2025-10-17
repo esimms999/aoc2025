@@ -1,24 +1,17 @@
 [
   {
-    "objectID": "day06.html",
-    "href": "day06.html",
-    "title": "Day06",
+    "objectID": "day07.html",
+    "href": "day07.html",
+    "title": "Day07",
     "section": "",
-    "text": "Placeholder for Day06"
+    "text": "Placeholder for Day07"
   },
   {
-    "objectID": "day04.html",
-    "href": "day04.html",
-    "title": "Day04",
+    "objectID": "day08.html",
+    "href": "day08.html",
+    "title": "Day08",
     "section": "",
-    "text": "Placeholder for Day04"
-  },
-  {
-    "objectID": "day01.html",
-    "href": "day01.html",
-    "title": "Day01",
-    "section": "",
-    "text": "Placeholder for Day01"
+    "text": "Placeholder for Day08"
   },
   {
     "objectID": "day09.html",
@@ -28,11 +21,25 @@
     "text": "Placeholder for Day09"
   },
   {
-    "objectID": "day10.html",
-    "href": "day10.html",
-    "title": "Day10",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Advent of Code 2025: My R Solutions",
     "section": "",
-    "text": "Placeholder for Day10"
+    "text": "Welcome to My Advent of Code 2025 Journey\nI always look forward to Advent of Code. As usual, I intend on using the power of the R programming language to solve each puzzle. This website showcases my (attempted) solutions, (hopefully decent) thought processes, and the creative ways (pleasepleaseplease) I leverage R’s data manipulation and visualization capabilities to crack the daily coding conundrums. Each day, I’ll share my code, explanations, and insights, offering a glimpse into how R can be used to solve complex problems.\nThe Advent of Code is an annual event that brings together programmers worldwide to solve bite-sized, festive coding challenges throughout December. My goal is to complete as many puzzles as I can while showcasing R’s versatility, from tidyverse workflows to custom algorithms.\nLet’s celebrate the joy of coding this holiday season!"
+  },
+  {
+    "objectID": "day06.html",
+    "href": "day06.html",
+    "title": "Day06",
+    "section": "",
+    "text": "Placeholder for Day06"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2\n\n\nVersion 0.3.4"
   },
   {
     "objectID": "day03.html",
@@ -42,13 +49,6 @@
     "text": "Placeholder for Day03"
   },
   {
-    "objectID": "day07.html",
-    "href": "day07.html",
-    "title": "Day07",
-    "section": "",
-    "text": "Placeholder for Day07"
-  },
-  {
     "objectID": "day02.html",
     "href": "day02.html",
     "title": "Day02",
@@ -56,11 +56,18 @@
     "text": "Placeholder for Day02"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Advent of Code 2025: My R Solutions",
+    "objectID": "day10.html",
+    "href": "day10.html",
+    "title": "Day10",
     "section": "",
-    "text": "Welcome to My Advent of Code 2025 Journey\nI always look forward to Advent of Code. As usual, I intend on using the power of the R programming language to solve each puzzle. This website showcases my (attempted) solutions, (hopefully decent) thought processes, and the creative ways (pleasepleaseplease) I leverage R’s data manipulation and visualization capabilities to crack the daily coding conundrums. Each day, I’ll share my code, explanations, and insights, offering a glimpse into how R can be used to solve complex problems.\nThe Advent of Code is an annual event that brings together programmers worldwide to solve bite-sized, festive coding challenges throughout December. My goal is to complete as many puzzles as I can while showcasing R’s versatility, from tidyverse workflows to custom algorithms.\nLet’s celebrate the joy of coding this holiday season!"
+    "text": "Placeholder for Day10"
+  },
+  {
+    "objectID": "day01.html",
+    "href": "day01.html",
+    "title": "Day01",
+    "section": "",
+    "text": "Placeholder for Day01"
   },
   {
     "objectID": "daily-challenges.html",
@@ -70,18 +77,11 @@
     "text": "Day 1\nDay 2\nDay 3\nDay 4\nDay 5\n\n\nDay 6\nDay 7\nDay 8\nDay 9\nDay 10\n\n\nDay 11\nDay 12\nDay 13\nDay 14\nDay 15\n\n\nDay 16\nDay 17\nDay 18\nDay 19\nDay 20\n\n\nDay 21\nDay 22\nDay 23\nDay 24\nDay 25"
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "day04.html",
+    "href": "day04.html",
+    "title": "Day04",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2\n\n\nVersion 0.3.3"
-  },
-  {
-    "objectID": "day08.html",
-    "href": "day08.html",
-    "title": "Day08",
-    "section": "",
-    "text": "Placeholder for Day08"
+    "text": "Placeholder for Day04"
   },
   {
     "objectID": "day05.html",
